@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Web Designer<br>🤝 I’m looking for help who want professional website<br>🌱 I’m currently learning more deep about web designing<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Md Nayeem Sheikh and I'm a frontend web designer, from Bangladesh</p>
+
+###
+
+
 
 
 ## 🌐 Socials:
