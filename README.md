@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Md Nayeem Sheikh and I'm a frontend web designer, from Bangladesh</p>
+<h4 align="left">My name is Md Nayeem Sheikh and I'm a frontend web designer, from Bangladesh</h4>
 
 ###
 
