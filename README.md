@@ -4,7 +4,10 @@
 ###
 
 <h2 align="left">My name is Md Nayeem Sheikh and I'm a frontend web designer, from Bangladesh</h2>
-<h2 align="left">To Explore Me Please Visit: <a href="my-portfolio-nayeem65.vercel.app">my-portfolio</a></h2>
+
+- 👨‍💻 All of my projects are available at [https://nayeem-portfolio.vercel.app/](https://nayeem-portfolio.vercel.app/)
+
+- 📫 How to reach me **developernayeem65@gmail.com**
 
 ###
 
