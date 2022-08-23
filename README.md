@@ -1,14 +1,12 @@
-# 💫 About Me:
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
-<h2 align="left">My name is Md Nayeem Sheikh and I'm a frontend web designer, from Bangladesh</h2>
+<h2 align="left" style="color: #FF9551">My name is Md Nayeem Sheikh and I'm a frontend web designer, from Bangladesh</h2>
 
 - 👨‍💻 All of my projects are available at [https://nayeem-portfolio.vercel.app/](https://nayeem-portfolio.vercel.app/)
 
 - 📫 How to reach me **developernayeem65@gmail.com**
 
+<h3 align="left" style="color: #FF9551">Waka Time Statistics</h2>
 ###
 <a href="https://wakatime.com/@9d4a1c2b-99ba-464c-a841-9b5c62898d5a"><img src="https://wakatime.com/badge/user/9d4a1c2b-99ba-464c-a841-9b5c62898d5a.svg" alt="Total time coded since Nov 8 2021" /></a>
 ###
