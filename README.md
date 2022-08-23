@@ -5,8 +5,8 @@
 - 👨‍💻 All of my projects are available at [https://nayeem-portfolio.vercel.app/](https://nayeem-portfolio.vercel.app/)
 
 - 📫 How to reach me **developernayeem65@gmail.com**
-
-## <h3 align="left">Waka Time Statistics:</h2>
+### 
+# <h3 align="left">Waka Time Statistics:</h2>
 
 <a href="https://wakatime.com/@9d4a1c2b-99ba-464c-a841-9b5c62898d5a"><img src="https://wakatime.com/badge/user/9d4a1c2b-99ba-464c-a841-9b5c62898d5a.svg" alt="Total time coded since Nov 8 2021" /></a>
 
