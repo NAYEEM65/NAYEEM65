@@ -2,7 +2,7 @@
 
 <h2 align="left">My name is Md Nayeem Sheikh and I'm a frontend web designer, from Bangladesh</h2>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-nayeem65.vercel.app/]https://my-portfolio-nayeem65.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-nayeem65.vercel.app/](https://my-portfolio-nayeem65.vercel.app/)
 
 - 📫 How to reach me **developernayeem65@gmail.com**
 
