@@ -11,8 +11,8 @@
 ### 
 <a href="https://wakatime.com/@9d4a1c2b-99ba-464c-a841-9b5c62898d5a"><img src="https://wakatime.com/badge/user/9d4a1c2b-99ba-464c-a841-9b5c62898d5a.svg" alt="Total time coded since Nov 8 2021" /></a>
 ---
-[![](https://visitcount.itsvg.in/api?id=NAYEEM65&icon=0&color=2)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=NAYEEM65&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nayeem_sheikh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developernayeem65) 
