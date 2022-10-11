@@ -6,15 +6,13 @@
 
 - 📫 How to reach me **developernayeem65@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayeem65" alt="nayeem65" /></a> </p>
+<p align="left"> <a href="https://github.com/nayeem65"><img src="https://github-profile-trophy.vercel.app/?username=nayeem65" alt="nayeem65" /></a> </p>
 
 # <h3 align="left">Waka Time Statistics:</h2>
 
 ### 
 <a href="https://wakatime.com/@9d4a1c2b-99ba-464c-a841-9b5c62898d5a"><img src="https://wakatime.com/badge/user/9d4a1c2b-99ba-464c-a841-9b5c62898d5a.svg" alt="Total time coded since Nov 8 2021" /></a>
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeem65&label=Profile%20views&color=0e75b6&style=flat" alt="nayeem65" /> </p>
-
 [![](https://visitcount.itsvg.in/api?id=NAYEEM65&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
