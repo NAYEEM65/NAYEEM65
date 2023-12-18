@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
-<img alt="Coding" width="100%" src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png" />
+<img alt="NAYEEM65" width="100%" src="https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?w=1380&t=st=1702888630~exp=1702889230~hmac=49fee6681283b6459b1b3123a992589d830045372ef59652d99ab87533f508e9" />
 
 
 - 👨‍💻 All of my projects are available at [https://nayeem-portfolio.vercel.app/](https://nayeem-portfolio.vercel.app/)
